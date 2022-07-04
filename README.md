@@ -2,7 +2,7 @@
 
 💻 - Desenvolvedor full stack!
 <br />
-🎮 - Amante de Jogos Digitais!
+🎮 - Gamer!
 <br />
 📚 - Estudante de Sistemas de informação!
 
