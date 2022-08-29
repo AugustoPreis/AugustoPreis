@@ -1,10 +1,10 @@
 # Olá, seja bem vindo ao meu perfil! 😀
 
-💻 - Desenvolvedor full stack!
+💻 - Desenvolvedor full stack
 <br />
-🎮 - Gamer!
+🎮 - Gamer
 <br />
-📚 - Estudante de Sistemas de informação!
+📚 - Estudante de Engenharia de Software
 
 <div align="center">
   <img width="450em" height="170em" src="https://github-readme-stats.vercel.app/api?username=AugustoPreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
