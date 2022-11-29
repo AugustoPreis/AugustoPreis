@@ -17,18 +17,7 @@
   
   <img align="center" alt="node.js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="react.js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-  ##
-
-  <b>Estou estudando:</b>
-  
   <img align="center" alt="typescript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-
-  ##
-
-  <b>Tenho interesse:</b>
-
-  <img align="center" alt="dart" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
 
 </div>
   
