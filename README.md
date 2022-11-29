@@ -3,8 +3,6 @@
 💻 - Desenvolvedor full stack
 <br />
 🎮 - Gamer
-<br />
-📚 - Estudante de Engenharia de Software
 
 <div align="center">
   <img width="450em" height="170em" src="https://github-readme-stats.vercel.app/api?username=AugustoPreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
