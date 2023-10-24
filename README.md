@@ -1,5 +1,5 @@
 ### Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-Some things about me, my career and bugs what I made 😜
+Some things about me, my career and my bugs 😜
 
 - 💼 &nbsp;I’m currently working as a full stack developer, with <a href="https://nodejs.org/">Node.js</a> and <a href="https://react.dev/">React.js</a>
 - 📘 &nbsp;I’m currently learning Typescript, Python
