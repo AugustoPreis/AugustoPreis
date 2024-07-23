@@ -3,7 +3,6 @@ Some things about me, my career and my bugs 😜
 
 - 💼 &nbsp;I’m currently working as a full stack developer, with <a href="https://nodejs.org/">Node.js</a> and <a href="https://react.dev/">React.js</a>
 - 📘 &nbsp;I’m currently learning Typescript, Python
-- 🎮 &nbsp;When I not working in projects, i'm normally playing online games
 
 🔗 &nbsp;**Connect with me**
 <a href="https://www.linkedin.com/in/augusto-preis-tomasi-915782209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
@@ -11,7 +10,7 @@ Some things about me, my career and my bugs 😜
 
 ### About Me
 
-I am a Full Stack Developer with 2+ years of experience in developing enterprise applications, but I study this world since 2019.
+I am a Full Stack Developer with 3+ years of experience in developing enterprise applications, but I study this world since 2019.
 
 My complete stack is based in the following items:
   
