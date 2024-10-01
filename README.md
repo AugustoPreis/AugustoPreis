@@ -24,6 +24,7 @@ Dentro destas tecnologias, gosto de usar as seguintes ferramentas:
 - [CRUD de Usuários](https://github.com/AugustoPreis/crud-users)
 - [Validador de Tipos](https://github.com/AugustoPreis/is)
 - [Utilitários para URL](https://github.com/AugustoPreis/url-utils)
+- [XML Builder](https://github.com/AugustoPreis/xml-builder)
 
 ### Faculdade
 - [Projeto Integrador WEB - Projeto Final](https://github.com/AugustoPreis/projeto-integrador-web)
