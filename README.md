@@ -1,30 +1,39 @@
-### Hi! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-Some things about me, my career and my bugs 😜
+## Olá! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-- 💼 &nbsp;I’m currently working as a full stack developer, with <a href="https://nodejs.org/">Node.js</a> and <a href="https://react.dev/">React.js</a>
-- 📘 &nbsp;I’m currently learning Typescript, Python
+Me chamo Augusto, sou um desenvolvedor Full Stack com 3+ anos de experiência empresarial, porém entrei na área da programação em 2019.
 
-🔗 &nbsp;**Connect with me**
-<a href="https://www.linkedin.com/in/augusto-preis-tomasi-915782209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/preisaugusto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+Minha Stack se baseia nas seguintes tecnologias
+- Node.js
+- React.js
+- Typescript
+- PostgreSQL
+- Java Spring
+- OracleDB
 
-### About Me
+Dentro destas tecnologias, gosto de usar as seguintes ferramentas:
+- Express
+- JWT
+- TypeORM
+- Ant Design
+- Webpack
 
-I am a Full Stack Developer with 3+ years of experience in developing enterprise applications, but I study this world since 2019.
+## Repositórios
 
-My complete stack is based in the following items:
-  
-- <a href="https://nodejs.org/">Node.js</a>
-- <a href="https://react.dev/">React.js</a>
-- <a href="https://www.typescriptlang.org/">Typescript</a>
-- <a href="https://www.postgresql.org/">PostgreSQL</a>
+### Pessoais
+- [CRUD de Produtos](https://github.com/AugustoPreis/crud-produtos)
+- [CRUD de Usuários](https://github.com/AugustoPreis/crud-users)
+- [Validador de Tipos](https://github.com/AugustoPreis/is)
+- [Utilitários para URL](https://github.com/AugustoPreis/url-utils)
 
-I like to use the following tools
+### Faculdade
+- [Projeto Integrador WEB - Projeto Final](https://github.com/AugustoPreis/projeto-integrador-web)
+- [Backend - Projeto Intermediário](https://github.com/AugustoPreis/projeto-intermediario-backend)
+- [Backend - Portfólio](https://github.com/AugustoPreis/portfolio-backend)
+- [Estrutura de Dados - Projeto Final](https://github.com/AugustoPreis/projeto-estrutura-dados)
+- [Frontend - Projeto Final](https://github.com/AugustoPreis/projeto-final-frontend-satc)
+- [Estatística Aplicada - Projeto Final](https://github.com/AugustoPreis/projeto-estatistica-aplicada)
+- [Frontend - Chat](https://github.com/AugustoPreis/chat-satc)
+- [Programação para Engenharia - Projeto Final](https://github.com/AugustoPreis/projeto-final-satc)
 
-- <a href="https://expressjs.com/">Express.js</a> - Node.js
-- <a href="https://jwt.io/">JWT</a> - Node.js
-- <a href="https://typeorm.io/">TypeORM</a> - Node.js / Typescript
-- <a href="https://node-postgres.com/">node-postgres</a> - Node.js / PostgreSQL
-- <a href="https://ant.design/">Ant Design</a> - React.js
-
+##
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=augustopreis&layout=compact&theme=dracula)
