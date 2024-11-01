@@ -25,11 +25,14 @@ Dentro destas tecnologias, gosto de usar as seguintes ferramentas:
 - [Validador de Tipos](https://github.com/AugustoPreis/is)
 - [Utilitários para URL](https://github.com/AugustoPreis/url-utils)
 - [XML Builder](https://github.com/AugustoPreis/xml-builder)
+- [Sistema para Restaurantes](https://github.com/AugustoPreis/restaurante)
 
 ### Faculdade
 - [Projeto Integrador WEB - Projeto Final](https://github.com/AugustoPreis/projeto-integrador-web)
 - [Backend - Projeto Intermediário](https://github.com/AugustoPreis/projeto-intermediario-backend)
 - [Backend - Portfólio](https://github.com/AugustoPreis/portfolio-backend)
+- [Backend - Projeto Final](https://github.com/AugustoPreis/projeto-final-backend)
+- [Machine Learning - Projeto Final](https://github.com/AugustoPreis/projeto-final-machine-learning)
 - [Estrutura de Dados - Projeto Final](https://github.com/AugustoPreis/projeto-estrutura-dados)
 - [Frontend - Projeto Final](https://github.com/AugustoPreis/projeto-final-frontend-satc)
 - [Estatística Aplicada - Projeto Final](https://github.com/AugustoPreis/projeto-estatistica-aplicada)
