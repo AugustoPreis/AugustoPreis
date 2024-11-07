@@ -26,6 +26,7 @@ Dentro destas tecnologias, gosto de usar as seguintes ferramentas:
 - [Utilitários para URL](https://github.com/AugustoPreis/url-utils)
 - [XML Builder](https://github.com/AugustoPreis/xml-builder)
 - [Sistema para Restaurantes](https://github.com/AugustoPreis/restaurante)
+- [Chat](https://github.com/AugustoPreis/chat)
 
 ### Faculdade
 - [Projeto Integrador WEB - Projeto Final](https://github.com/AugustoPreis/projeto-integrador-web)
