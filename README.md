@@ -27,6 +27,7 @@ Dentro destas tecnologias, gosto de usar as seguintes ferramentas:
 - [XML Builder](https://github.com/AugustoPreis/xml-builder)
 - [Sistema para Restaurantes](https://github.com/AugustoPreis/restaurante)
 - [Chat](https://github.com/AugustoPreis/chat)
+- [Node.js Backend Utils](https://github.com/AugustoPreis/backend-utils)
 
 ### Faculdade
 - [Projeto Integrador WEB - Projeto Final](https://github.com/AugustoPreis/projeto-integrador-web)
