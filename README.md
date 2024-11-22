@@ -28,6 +28,7 @@ Dentro destas tecnologias, gosto de usar as seguintes ferramentas:
 - [Sistema para Restaurantes](https://github.com/AugustoPreis/restaurante)
 - [Chat](https://github.com/AugustoPreis/chat)
 - [Node.js Backend Utils](https://github.com/AugustoPreis/backend-utils)
+- [Setup Node Env](https://github.com/AugustoPreis/setup-node-env)
 - [Pong](https://github.com/AugustoPreis/pong)
 
 ### Faculdade
