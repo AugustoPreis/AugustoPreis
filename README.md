@@ -31,6 +31,7 @@ Dentro destas tecnologias, gosto de usar as seguintes ferramentas:
 - [Setup Node Env](https://github.com/AugustoPreis/setup-node-env)
 - [Pong](https://github.com/AugustoPreis/pong)
 - [TODO List](https://github.com/AugustoPreis/todolist)
+- [E-commerce](https://github.com/AugustoPreis/ecommerce)
 
 ### Faculdade
 - [Projeto Integrador WEB - Projeto Final](https://github.com/AugustoPreis/projeto-integrador-web)
