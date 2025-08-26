@@ -1,21 +1,38 @@
-## Olá! <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+# 👋 Olá, eu sou o Augusto
 
-Me chamo Augusto, sou um desenvolvedor Full Stack com 3+ anos de experiência empresarial, porém entrei na área da programação em 2019.
+💻 Desenvolvedor Fullstack apaixonado por criar soluções.  
+🚀 Atualmente trabalho com desenvolvimento de sistemas web, utilizando Node.js e React.js.  
 
-Minha Stack se baseia nas seguintes tecnologias
-- Node.js
-- React.js
-- Typescript
-- PostgreSQL
-- Java Spring
-- OracleDB
+---
 
-Dentro destas tecnologias, gosto de usar as seguintes ferramentas:
-- Express
-- JWT
-- TypeORM
-- Ant Design
-- Webpack
+## 🛠️ Tecnologias e Ferramentas
 
-##
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=augustopreis&layout=compact&theme=dracula)
+- **Linguagens:** Node.js, JavaScript, TypeScript, Java, Python  
+- **Banco de Dados:** PostgreSQL, Oracle  
+- **Frontend:** HTML, CSS, Bootstrap  
+- **Testes:** Jest, Mocha  
+- **Outros:** Kafka, Redis, JWT, Swagger, Git/GitHub, Linux  
+
+---
+
+## 📌 Áreas de Interesse
+- Arquitetura de Software  
+- DevOps e automação  
+- Inteligência Artificial  
+- Boas práticas (SOLID, ACID)  
+
+---
+
+## 🌱 Atualmente
+- Graduando em **Engenharia de Software**  
+- Desenvolvedor Full-Stack em **Consystec Sistemas**  
+
+---
+
+## 📫 Conecte-se comigo
+- ✉️ [E-mail](mailto:augustopreisthomasi@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/) _(adicione o link do seu perfil)_  
+- 🖥️ [GitHub](https://github.com/AugustoPreis)  
+
+---
+⭐ Se curtir algum projeto, não esquece de deixar uma estrela!
