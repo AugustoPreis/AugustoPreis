@@ -31,7 +31,7 @@
 
 ## 📫 Conecte-se comigo
 - ✉️ [E-mail](mailto:augustopreisthomasi@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/) _(adicione o link do seu perfil)_  
+- 💼 [LinkedIn](https://www.linkedin.com/in/augusto-preis-tomasi-915782209)
 - 🖥️ [GitHub](https://github.com/AugustoPreis)  
 
 ---
