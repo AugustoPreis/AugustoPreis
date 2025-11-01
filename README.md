@@ -1,38 +1,5 @@
-# 👋 Olá, eu sou o Augusto
+Sou Desenvolvedor Full Stack com mais de 4 anos de experiência em desenvolvimento de aplicações web. Ao longo da minha trajetória, atuei no planejamento, implementação e manutenção de sistemas complexos, incluindo soluções ERP, plataformas SaaS e sistemas corporativos personalizados.
 
-💻 Desenvolvedor Fullstack apaixonado por criar soluções.  
-🚀 Atualmente trabalho com desenvolvimento de sistemas web, utilizando Node.js e React.js.  
+Possuo sólida experiência na stack Node/React, utilizando frameworks modernos como NestJS, Express, Ant Design e Material UI, aplicando boas práticas de arquitetura, desempenho e escalabilidade.
 
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-- **Linguagens:** Node.js, JavaScript, TypeScript, Java, Python  
-- **Banco de Dados:** PostgreSQL, Oracle  
-- **Frontend:** HTML, CSS, Bootstrap  
-- **Testes:** Jest, Mocha  
-- **Outros:** Kafka, Redis, JWT, Swagger, Git/GitHub, Linux  
-
----
-
-## 📌 Áreas de Interesse
-- Arquitetura de Software  
-- DevOps e automação  
-- Inteligência Artificial  
-- Boas práticas (SOLID, ACID)  
-
----
-
-## 🌱 Atualmente
-- Graduando em **Engenharia de Software**  
-- Desenvolvedor Full-Stack em **Consystec Sistemas**  
-
----
-
-## 📫 Conecte-se comigo
-- ✉️ [E-mail](mailto:augustopreisthomasi@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/augusto-preis-tomasi-915782209)
-- 🖥️ [GitHub](https://github.com/AugustoPreis)  
-
----
-⭐ Se curtir algum projeto, não esquece de deixar uma estrela!
+Atualmente, curso Engenharia de Software na Universidade SATC, aprimorando meus conhecimentos sobre o ciclo completo de desenvolvimento de software, da concepção à entrega.
